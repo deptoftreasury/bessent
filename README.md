@@ -1,5 +1,7 @@
 # Bessent
 
+![Bessent](https://github.com/user-attachments/assets/d738561e-551b-4b42-a77a-95e73945dcf7)
+
 Bessent is a Python client for interacting with U.S. Department of Treasury APIs.
 
 ## Features
